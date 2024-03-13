@@ -1,3 +1,3 @@
-# My name is Jerr Yu.
+# My name is Jerry Yu.
 This is my first repositroy.
 
